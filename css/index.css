@@ -15,7 +15,7 @@
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 40px;
+    padding-left: 40ox;
     padding-bottom: 80px;
     color: #ffffff;
     font-weight: bold;
@@ -98,7 +98,7 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Cherry Bomb One', cursive;
 }
 
 @media (max-width: 800px) {
